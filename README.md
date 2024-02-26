@@ -3,9 +3,9 @@
 <h3 align="center"> | Backend Developer | DevOps | CyberSecurity | </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andersondutracun&label=Views" alt="Views">
-  <img alt="Stars" src="https://img.shields.io/github/stars/andersondutracun?label=Stars">
-  <img src="https://badges.pufler.dev/repos/andersondutracun" alt="Repos"><img src="https://badges.pufler.dev/years/andersondutracun" alt="Years">
+  <img src="https://komarev.com/ghpvc/?username=brunog-infosec&label=Views" alt="Views">
+  <img alt="Stars" src="https://img.shields.io/github/stars/brunog-infosec?label=Stars">
+  <img src="https://badges.pufler.dev/repos/brunog-infosec" alt="Repos"><img src="https://badges.pufler.dev/years/brunog-infosec" alt="Years">
 </p>
 
 <div align="center">
