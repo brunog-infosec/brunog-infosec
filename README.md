@@ -1,6 +1,6 @@
 
 <h1 align="center"># 👋 Hi, I'm Bruno</h1>
-<h3 align="center"> | Backend Developer | DevOps | CyberSecurity | </h3>
+<h3 align="center"> | Backend Developer |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunog-infosec&label=Views" alt="Views">
@@ -17,15 +17,13 @@
 
 ### 🔨 What I'm Learning:
 
-- Analise e Desenvolvimento de Sistemas pela Faculdade Vincit.
-- DIO (Digital Inovation One) => Trilha Html Developer / Linux fundamentals / DevOps fundamentals.
-- Estudando para certificação Linux LPI-Essentials.
+- Cursando Analise e Desenvolvimento de Sistemas pela Faculdade Vincit.
 
 ---
 
 ### 👨‍💻 My Personal Objectives:
 
-- MASTERING PYTHON, C#, JAVA.
+- BACKEND DEVELOPER, IA.
 - LPI CERTIFICATION
 - AWS CERTIFICATION
 
