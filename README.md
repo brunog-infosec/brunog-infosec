@@ -1,6 +1,6 @@
 
 <h1 align="center"># 👋 Hi, I'm Bruno</h1>
-<h3 align="center"> | Web Developer & CyberSecurity |</h3>
+<h3 align="center"> | FullStack Developer | REACT | NEXTJS | API REST | SEQUELIZE ORM| NODEJS | EXPRESS | JAVASCRIPT | TYPESCRIPT  | AWS GCP | MARIADB POSTGRESQL MONGODB | JEST |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunog-infosec&label=Views" alt="Views">
@@ -18,7 +18,7 @@
 
 ---
 
-### 👨‍💻 My Personal Objectives:
+### 👨‍💻 Objectives:
 
 - BACKEND DEVELOPER, IA.
 - LPI CERTIFICATION
@@ -30,7 +30,7 @@
 
 | Ano | Instituição |
 |------|------------|
-| 2023 | [Análise e Desenvolvimento Sistemas - Faculdade Vincit]() |
+| 2025 | [Análise e Desenvolvimento Sistemas - Faculdade Vincit]() |
 | 2023 | [Introdution to Cyber Security - Cisco ](https://www.credly.com/badges/c9a1c486-912d-4478-ad45-848987a288cf/) |
 | 2022 | [Investigador Digital - TDI ](https://sl.tecnicasdeinvasao.com/) |
 
@@ -41,9 +41,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 ![NodeJs](https://img.shields.io/badge/NodeJs-000?style=for-the-badge&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
+
 
 ---
 
@@ -52,16 +51,6 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-0D1117?style=for-the-badge&logo=shell&labelColor=0D1117)&nbsp;
-
----
-
-## 📚 Books :  
-
-| # | Favorite Books |
-|-----:|---------------|
-|     1| ⚛️ Hábitos Atômicos - James Clear |
-|     2| 🎩 BlackHat Python - Justin Seitz and Tim Arnold |
-|     3| 🧠 As Armas da Persuasão - Cialdini, Robert B|
 
 ---
 
