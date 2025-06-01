@@ -42,15 +42,23 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![NodeJs](https://img.shields.io/badge/NodeJs-000?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/Mongodb-000?style=for-the-badge&logo=mongodb)
 
 
 ---
 
 ## 🧰 Tools:
 
+![ArchLinux](https://img.shields.io/badge/Arch%20Linux-000?style=for-the-badge&logo=archlinux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-0D1117?style=for-the-badge&logo=shell&labelColor=0D1117)&nbsp;
+![Zsh](https://img.shields.io/badge/-Shell-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117)&nbsp;
+![Vscode](https://img.shields.io/badge/-Vscode-0D1117?style=for-the-badge&logo=vscodium&labelColor=0D1117)&nbsp;
+![Insomnia](https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=insomnia)&nbsp;
 
 ---
 
