@@ -1,6 +1,6 @@
 
 <h1 align="center"># 👋 Hi, I'm Bruno</h1>
-<h3 align="center"> | FullStack Developer | REACT | NEXTJS | API REST | SEQUELIZE ORM| NODEJS | EXPRESS | JAVASCRIPT | TYPESCRIPT  | AWS GCP | MARIADB POSTGRESQL MONGODB | JEST |</h3>
+<h3 align="center"> | Backend Developer | API REST | SEQUELIZE ORM| NODEJS | EXPRESS | JAVASCRIPT | TYPESCRIPT | AWS GCP | MARIADB POSTGRESQL MONGODB | JEST |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=brunog-infosec&label=Views" alt="Views">
