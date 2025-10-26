@@ -13,14 +13,13 @@
 
 ### 🔨 What I'm Learning:
 
-- Cursando Analise e Desenvolvimento de Sistemas - Faculdade Vincit.
 - Curso de JavaScript e TypeScript do básico ao avançado JS/TS [Link](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado)
-
+- 
 ---
 
 ### 👨‍💻 Objectives:
 
-- BACKEND DEVELOPER, IA.
+- BACKEND DEVELOPER
 - LPI CERTIFICATION
 - AWS CERTIFICATION
 
@@ -30,7 +29,7 @@
 
 | Ano | Instituição |
 |------|------------|
-| 2025 | [Análise e Desenvolvimento Sistemas - Faculdade Vincit]() |
+| 2025 | [Análise e Desenvolvimento Sistemas - Faculdade Facint | 2023 - 2025 ]() |
 | 2023 | [Introdution to Cyber Security - Cisco ](https://www.credly.com/badges/c9a1c486-912d-4478-ad45-848987a288cf/) |
 | 2022 | [Investigador Digital - TDI ](https://sl.tecnicasdeinvasao.com/) |
 
