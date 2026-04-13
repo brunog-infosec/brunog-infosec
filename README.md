@@ -9,6 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogarcia2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunogarcia182/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_TRYHACKME_LINK_HERE)
 ![Open to Work](https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge)
 
 </div>
