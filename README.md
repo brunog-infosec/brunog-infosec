@@ -1,63 +1,79 @@
-<div align="center">
-<h1 > Hi, I'm Bruno Garcia </h1>
-<h2 > Backend Developer</h2>
-<h3> NODEJS | RESTful APIs | EXPRESS | SEQUELIZE ORM | TYPESCRIPT | POSTGRESQL | MONGODB | AWS | DOCKER </h3>🚀
-<h5>Passionate about computers, migrating to Backend Developer focused on Node.js, secure DevOps practices, security and infrastructure</h5>
+<div>
+<h1>Hi, I'm Bruno Garcia 👋</h1>
+<h2>IT Support Analyst | SOC Entry Level | Cybersecurity Analyst  </h2>
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=brunog-infosec&label=Views" alt="Views">
-  <img alt="Stars" src="https://img.shields.io/github/stars/brunog-infosec?label=Stars">
+  <img src="https://komarev.com/ghpvc/?username=brunog-infosec&label=Profile%20Views&color=0e76a8" alt="Views">
+  <img alt="Stars" src="https://img.shields.io/github/stars/brunog-infosec?label=Total%20Stars&color=0e76a8">
 </p>
 
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/brunogarcia2/)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/brunogarcia182/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunogarcia2/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunogarcia182/)
+![Open to Work](https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge)
 
 </div>
 
-### Objectives:
+### 🛡️ About Me
 
-Back-end Jr Developer | DevOps Entry Level
+I am an IT professional with over 10 years of experience as a Support Analyst and Technician, currently transitioning into **Cybersecurity**. I am developing foundational and practical knowledge in SOC operations, log analysis, network security, and penetration testing methodologies.
 
-### Graduation:
+Through structured learning and labs aligned with the **Google Cybersecurity Certification**, I am strengthening my understanding of risk management, security monitoring, incident response, and defensive strategies. I am motivated by problem-solving, analytical thinking, and the responsibility of contributing to safer digital environments.
 
-| Year | Course |
-|------|------------|
-| 2025 | [Análise e Desenvolvimento Sistemas - Faculdade Facint](https://facint.edu.br/) |
+- ⚡ **Currently focusing on:** Google Cybersecurity Professional Certificate & TryHackMe Labs.
+- 🔍 **Fields of interest:** SOC Operations, Threat Hunting, and Pentesting.
+- 🤝 **Core Values:** Ethics, continuous learning, and knowledge sharing.
 
-
-### Tech Skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/Mongodb-000?style=for-the-badge&logo=mongodb)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
 ---
 
-### Courses:
-- JavaScript/TypeScript - [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado)
-- Linux Essentials - CertBest IT - [Certbest Training IT](https://eadcertbest.com/)
-- AWS Certified Cloud Practitioner - [Udemy](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=MT251103G3)
-- Docker - [Udemy](https://www.udemy.com/course/docker-zero-avancado/?kw=docker&src=sac&couponCode=MT251103G3)
-- [Introdution to Cyber Security - Cisco ](https://www.credly.com/badges/c9a1c486-912d-4478-ad45-848987a288cf/)
-- [Investigador Digital - TDI ](https://sl.tecnicasdeinvasao.com/)
+### 🎓 Education
 
-## Tools:
+| Instituição | Curso | Conclusão |
+| :--- | :--- | :--- |
+| **Faculdade Vincit** | Análise e Desenvolvimento de Sistemas | 2025 |
+| **Google/Coursera** | Google Cybersecurity Certificate | Em curso |
 
-![ArchLinux](https://img.shields.io/badge/Arch%20Linux-000?style=for-the-badge&logo=archlinux)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Zsh](https://img.shields.io/badge/-Shell-0D1117?style=for-the-badge&logo=zsh&labelColor=0D1117)&nbsp;
-![Vscode](https://img.shields.io/badge/-Vscode-0D1117?style=for-the-badge&logo=vscodium&labelColor=0D1117)&nbsp;
-![Insomnia](https://img.shields.io/badge/Insomnia-000?style=for-the-badge&logo=insomnia)&nbsp;
 ---
 
-## GitHub Stats :
+### 🚀 Featured Cybersecurity Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=brunog-infosec&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+Detailed hands-on labs focused on offensive and defensive security:
 
+* **[Brute Force Attack Lab](https://github.com/brunog-infosec/bruteforce-metasploitable-lab)**
+    * Simulated brute force attacks using **Kali Linux** and **Medusa** against a Metasploitable 2 target. Documented the process and established mitigation strategies.
+* **[Ransomware Simulation Challenge](https://github.com/brunog-infosec/cibersecurity-desafio-ransomware)**
+    * Practical exercise in understanding ransomware mechanics, encryption/decryption processes, and defense-in-depth concepts.
+* **[Phishing Campaign Challenge](https://github.com/brunog-infosec/cibersecurity-desafio-phishing)**
+    * Setup and analysis of phishing scenarios to understand social engineering vectors and technical prevention methods.
+* **[Malware Study Lab](https://github.com/brunog-infosec/diolab-study-malware)**
+    * Research and documentation on malware behavior, infection chains, and basic analysis.
 
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Cybersecurity & Infrastructure:**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-FF4400?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Development & Scripting:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=brunog-infosec&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+---
+
+### 📬 Let's Connect!
+
+I am actively seeking **Junior SOC Analyst** or **Infrastructure Support** roles.
+
+- **LinkedIn:** [In/BrunoGarcia2](https://www.linkedin.com/in/brunogarcia2/)
+- **Location:** Based in Brazil (Available for Remote/Hybrid)
